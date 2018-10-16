@@ -1,0 +1,25 @@
+{
+  "name": "web_scraping_boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazalrasel/web_scraping_boilerplate.git"
+  },
+  "author": "Fazal Rasel <fazalrasel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fazalrasel/web_scraping_boilerplate/issues"
+  },
+  "homepage": "https://github.com/fazalrasel/web_scraping_boilerplate#readme",
+  "devDependencies": {
+    "axios": "0.18.0",
+    "cheerio": "1.0.0-rc.2",
+    "knex": "0.15.2",
+    "mysql2": "1.6.1"
+  }
+}
