@@ -3,5 +3,5 @@
 logs
 *.log
 *.log.*
-
+*-lock.json
 node_modules
